@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "China"
+title                    : "Reven's homepage"
 title_separator          : "-"
 name                     : &name "Pingyue Sheng"
 description              : &description "personal description"
