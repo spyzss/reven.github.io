@@ -12,7 +12,7 @@ title                    : "Reven's homepage"
 title_separator          : "-"
 name                     : &name "Pingyue Sheng"
 description              : &description "personal description"
-url                      : https://spyzss.github.io/reven.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://reven.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
