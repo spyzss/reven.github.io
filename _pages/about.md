@@ -36,7 +36,7 @@ Workshop on X-Embodiment Robot Learning, CoRL 2024
 We demonstrate that the policy's generalization ability to new objects, new environments, or both scales approximately as a power law with the number of training objects, training environments, or training environment-object pairs, respectively.
 </div>
 <div style="flex: 1;">
-<img src="/images/scaling-law.jpg" alt="Data Scaling Laws" style="width: 100%; max-width: 400px;">
+<img src="/images/scaling-law.png" alt="Data Scaling Laws" style="width: 100%; max-width: 400px;">
 </div>
 </div>
 ## Projects
@@ -48,7 +48,7 @@ We demonstrate that the policy's generalization ability to new objects, new envi
 - Utilized Stable Diffusion 2 and Llama 2 API to enhance users experiences
 </div>
 <div style="flex: 1;">
-<img src="/images/course-sharing-platform.jpg" alt="Course Sharing Platform" style="width: 100%; max-width: 400px;">
+<img src="/images/course-sharing-platform.png" alt="Course Sharing Platform" style="width: 100%; max-width: 400px;">
 </div>
 </div>
 
@@ -60,7 +60,7 @@ We demonstrate that the policy's generalization ability to new objects, new envi
 - Proposed DreamFactory, a novel architecture to address the CoT length issue and improve model performance
 </div>
 <div style="flex: 1;">
-<img src="/images/Dream.jpg" alt="DreamFactory" style="width: 100%; max-width: 400px;">
+<img src="/images/Dream.png" alt="DreamFactory" style="width: 100%; max-width: 400px;">
 </div>
 </div>
 
