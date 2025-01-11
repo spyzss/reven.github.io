@@ -24,7 +24,7 @@ I am Pingyue Sheng (盛平岳 in chinese), an undergraduate student at the Insti
 ## Publications
 
 ### Data Scaling Laws in Imitation Learning for Robotic Manipulation
-<img src="../images/scaling-law.png" alt="Data Scaling Laws">
+<img src='/images/scaling-law.png'>
 
 **Fanqi Lin\***, **Yingdong Hu\***, **Pingyue Sheng**, Chuan Wen, Jiacheng You, Yang Gao  
 
@@ -45,7 +45,7 @@ We demonstrate that the policy's generalization ability to new objects, new envi
 - Designed and implemented a PostgreSQL-based course sharing platform using Scala for backend and React for frontend
 - Utilized Stable Diffusion 2 and Llama 2 API to enhance users experiences
 
-<img src="../images/course-sharing-platform.png" alt="Course Sharing Platform">
+<img src='/images/course-sharing-platform.png'>
 
 ### DreamFactory: Grounding Language Models to World Models 
 [Code](https://github.com/knightnemo/nlp-proj) \ [Paper](https://github.com/knightnemo/nlp-proj)
@@ -53,8 +53,7 @@ We demonstrate that the policy's generalization ability to new objects, new envi
 - Through empirical study, discovered performance limitations caused by overlengthy Chain-of-Thoughts (CoTs)
 - Proposed DreamFactory, a novel architecture to address the CoT length issue and improve model performance
 
-<img src="../images/Dream.png" alt="DreamFactory">
-
+<img src='/images/Dream.png'>
 
 ## Miscs
 - I'm an avid fitness enthusiast:muscle:
