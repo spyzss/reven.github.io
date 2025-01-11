@@ -31,7 +31,7 @@ I am Pingyue Sheng (盛平岳 in chinese), an undergraduate student at the Insti
 Workshop on X-Embodiment Robot Learning, CoRL 2024  
 🏆 **Best Paper Award**  
 
-[[Code]](https://github.com/Fanqi-Lin/Data-Scaling-Laws) [[Project Page]](https://data-scaling-laws.github.io/) [[Paper]](https://arxiv.org/pdf/2410.18647)
+[Code](https://github.com/Fanqi-Lin/Data-Scaling-Laws)\ [Project Page](https://data-scaling-laws.github.io/) \ [Paper](https://arxiv.org/pdf/2410.18647)
 
 We demonstrate that the policy's generalization ability to new objects, new environments, or both scales approximately as a power law with the number of training objects, training environments, or training environment-object pairs, respectively.
 </div>
@@ -54,7 +54,7 @@ We demonstrate that the policy's generalization ability to new objects, new envi
 
 <div style="display: flex; margin-bottom: 20px;">
 <div style="flex: 1; padding-right: 20px;">
-<h3>DreamFactory: Grounding Language Models to World Models [Code](https://github.com/knightnemo/nlp-proj) [Paper](https://github.com/knightnemo/nlp-proj)</h3>
+<h3>DreamFactory: Grounding Language Models to World Models [Code](https://github.com/knightnemo/nlp-proj)[Paper](https://github.com/knightnemo/nlp-proj)</h3>
 - Investigated the feasibility of utilizing language models as text-based world models
 - Through empirical study, discovered performance limitations caused by overlengthy Chain-of-Thoughts (CoTs)
 - Proposed DreamFactory, a novel architecture to address the CoT length issue and improve model performance
