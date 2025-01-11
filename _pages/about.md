@@ -38,13 +38,15 @@ We demonstrate that the policy's generalization ability to new objects, new envi
 
 ## Projects
 
-### Course Sharing Platform [Code](https://github.com/knightnemo/WEB_PROJ)
+### Course Sharing Platform
+[Code](https://github.com/knightnemo/WEB_PROJ)
 - Designed and implemented a PostgreSQL-based course sharing platform using Scala for backend and React for frontend
 - Utilized Stable Diffusion 2 and Llama 2 API to enhance users experiences
 
 ![Course Sharing Platform](/images/course-sharing-platform.png)
 
-### DreamFactory: Grounding Language Models to World Models [Code](https://github.com/knightnemo/nlp-proj) [Paper](https://github.com/knightnemo/nlp-proj)
+### DreamFactory: Grounding Language Models to World Models 
+[Code](https://github.com/knightnemo/nlp-proj) \ [Paper](https://github.com/knightnemo/nlp-proj)
 - Investigated the feasibility of utilizing language models as text-based world models
 - Through empirical study, discovered performance limitations caused by overlengthy Chain-of-Thoughts (CoTs)
 - Proposed DreamFactory, a novel architecture to address the CoT length issue and improve model performance
@@ -53,7 +55,8 @@ We demonstrate that the policy's generalization ability to new objects, new envi
 
 
 ## Miscs
-
+- I'm an avid fitness enthusiast:muscle:
+- I'm a big fan of anime, especially 終末なにしてますか？忙しいですか？救ってもらっていいですか？ 
 
 ---
 
